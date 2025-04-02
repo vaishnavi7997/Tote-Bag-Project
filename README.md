@@ -1,4 +1,4 @@
-#👜 ToteBag - E-Commerce Website
+# 👜 ToteBag - E-Commerce Website
 ## About the Project
 ToteBag is a stylish and modern e-commerce website for tote bags. It provides a seamless shopping experience with a clean UI and Bootstrap-based design.
 
@@ -20,11 +20,11 @@ Google Fonts & Icons for a modern UI
 
 ## How to Run the Project
 Clone the repository:
-git clone https://github.com/your-username/totebag.git
+git clone https://github.com/your-username/Tote-Bag-Project.git
 Open the project in a code editor.
 Run the index.html file in a browser.
 
-#### Live Demo: e-commerce-tote-bag-project.netlify.app
+#### Live Demo: https://fastidious-biscochitos-8f2ac9.netlify.app/
 
 ## Future Enhancements
 Add a cart feature to allow users to add multiple products.
