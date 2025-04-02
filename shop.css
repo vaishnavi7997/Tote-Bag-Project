@@ -1,0 +1,57 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-toggler{
+    background-color: white;
+    color: white;
+}
+.navbar-toggler:hover{
+    background-color: white;
+}
+.navbar {
+    background: black;
+    color: white;
+}
+.navbar:hover{
+    background-color: black;
+    color: white;
+}
+.navbar-nav .nav-link {
+    color: white;
+    padding: 5px;
+}
+.nav-item {
+    font-size: medium;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+}
+#partners{
+    margin: auto;
+}
+.partner-card {
+    margin-top: 40px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6) ;
+}
+.card-body img{
+    height: 40vh;
+    margin-top: 20px;
+}
+.partner-card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.532); 
+}
+.scrolling-text {
+    background-color: rgba(165, 42, 42, 0.95);
+    color: white;
+    position: absolute;
+    padding: 9px;
+    font-size: 20px;
+    font-weight: bold ;
+}
+.footer{
+    height: 60px;
+    padding: 20px;
+}
+

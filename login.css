@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-toggler{
+    background-color: white;
+    color: white;
+}
+.navbar-toggler:hover{
+    background-color: white;
+}
+.navbar {
+    background: black;
+    color: white;
+}
+.navbar:hover{
+    background-color: black;
+    color: white;
+}
+.navbar-nav .nav-link {
+    color: white;
+    padding: 5px;
+}
+.nav-item {
+    font-size: medium;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+}
+.login-container {
+    height: 70vh;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.653);
+}
+.container-fluid{
+    margin-top: 60px;
+}
+.login-container h2 {
+    color: brown; 
+    font-weight: bolder;
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    padding: 10px;
+    color: black; 
+    font-size: large;
+}
+
+

@@ -1,0 +1,77 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar-toggler{
+    background-color: white;
+    color: white;
+}
+.navbar-toggler:hover{
+    background-color: white;
+}
+.navbar {
+    background: black;
+    color: white;
+}
+.navbar:hover{
+    background-color: black;
+    color: white;
+}
+.navbar-nav .nav-link {
+    color: white;
+    padding: 5px;
+}
+.nav-item {
+    font-size: medium;
+}
+.navbar-brand{
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text-content {
+    display: flex;
+    align-items: center;
+}
+.title-container h1{
+    padding-top: 150px;
+    font-size: 140px;
+    font-style: italic;
+    gap: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.scrolling-text {
+    background-color: rgba(165, 42, 42, 0.95);
+    color: white;
+    position: absolute;
+    padding: 9px;
+    font-size: 20px;
+    font-weight: bold ;
+    animation: scrollText 9s linear infinite;
+}
+#partners{
+    margin: auto;
+}
+.partner-card {
+    margin-top: 40px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.6) ;
+}
+.card-body img{
+    height: 40vh;
+    margin-top: 20px;
+}
+.partner-card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.532); 
+}
+.new-items{
+    margin-left: 650px;
+    justify-content: center;
+}
+.footer{
+    height: 60px;
+    padding: 20px;
+}
