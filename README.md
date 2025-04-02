@@ -20,11 +20,11 @@ Google Fonts & Icons for a modern UI
 
 ## How to Run the Project
 Clone the repository:
-git clone https://github.com/your-username/Tote-Bag-Project.git
+git clone:  https://github.com/vaishnavi7997/Tote-Bag-Project
 Open the project in a code editor.
 Run the index.html file in a browser.
 
-#### Live Demo: https://fastidious-biscochitos-8f2ac9.netlify.app/
+#### Live Demo:  https://e-commerce-tote-bag-project.netlify.app/
 
 ## Future Enhancements
 Add a cart feature to allow users to add multiple products.
