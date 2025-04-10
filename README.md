@@ -30,7 +30,4 @@ Run the index.html file in a browser.
 Add a cart feature to allow users to add multiple products.
 
 
-## Connect with Me
-GitHub: github.com/vaishnavi7997
 
-LinkedIn: linkedin.com/in/vaishnavi7997
